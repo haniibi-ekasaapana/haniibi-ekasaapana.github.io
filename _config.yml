@@ -1,5 +1,5 @@
 title: root eater
-author: daniel hayden
-email: haniibi_ekasaapana@proton.me
-github name: haniibi-ekasaapana
+description: personal blog
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-time-machine
